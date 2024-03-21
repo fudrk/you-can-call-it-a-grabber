@@ -1,4 +1,5 @@
 @echo off
 title Fudrk Builder
-python builder.pyw
+node builder.js
 pause
+
